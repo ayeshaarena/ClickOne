@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    background-color: powderblue;
+}
+hr{
+  border-bottom: none;
+  margin: 25px auto;
+  width: 300px;
+}
+h1{
+  color:lightseagreen;
+
+}
+.Form{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: whitesmoke;
+}
+textarea {
+  width: 25%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+input[type=text] {
+  border: 2px solid teal;
+  border-radius: 4px;
+}
+select {
+  width: 25%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+input[type=submit]{
+background-color: lightseagreen;
+border: 2px solid  lightskyblue;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.copyrights{
+  font-size: 10px;
+}
+

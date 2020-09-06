@@ -1,0 +1,136 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    
+}
+hr{
+    border-bottom: none;
+    margin: 100px auto;
+    width: 500px;
+    
+}
+.button {
+    position: relative;
+    background-color: silver;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: %;}
+}
+.cart{
+    position: absolute;
+    left: 85%;
+}   
+.search{
+    position: relative;
+    left: 38%;
+    top: 2px;
+}
+.mydiv1{
+    background-color: white; 
+    margin: 0; 
+    padding-bottom: -0px;
+}
+.mydiv2{
+    background-color: white;
+    margin: 0;
+}
+.logo{
+    padding-left: 15px;
+    padding-top: 15px;
+    float: left;
+    position: relative;
+    bottom: 15px;
+}
+.top-icons{
+    font-size: 25px;
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    margin: 10px 0 10px 0;
+    text-decoration: none;
+}
+.top-icons2{
+    font-size: 25px;
+    position: absolute;
+    bottom: 200px;
+    right: 100px;
+    margin: 10px 0 10px 0;
+    text-decoration: none;
+}
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
+    padding-top: 10px;
+    margin: 0%;
+    text-align: left;
+    font-size:  35px;
+    color: tomato;
+}
+h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: left;
+    position: relative;
+    left: 100px;
+
+}
+h5{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: left;
+    margin: 0%;
+    position: relative;
+    left: 0px;  
+    bottom: 1px;
+}
+.sports.div{
+    margin: 0px;
+    position: absolute;
+   
+}
+.sports{
+    margin: 0px;
+    position: absolute;
+    text-decoration: none;
+    color:tomato;
+    font-size: 80px;
+
+}
+.latest-trending{
+    border: tomato 2px;
+
+}
+.contact details{
+    line-height: 3px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
+}
+.bottom-container{  
+    line-height: 0px;
+    padding: 15px;  
+}
+.copyrights{
+    line-height: 50px;
+    color: lightslategray;
+    font-size: 0.75rem;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+   

@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    background-color: powderblue;
+}
+h2{
+    color: whitesmoke;
+}
+.vl {
+    border-left: 0px solid whitesmoke;
+    height: 115px;
+    position: absolute;
+    left: 50%;
+    margin-left: -2px;
+    bottom: 10%;
+    top: 35%;
+  }
+hr{
+    border-bottom: none;
+    margin: 100px auto;
+    width: 500px;
+}
+.table-2{
+    position: relative;
+    bottom: 40px;
+    left: 55%;
+    
+}
+.form{
+    padding-top: 50px;
+    text-align: center;
+}
+.table{
+    position: relative;
+    left: 25%;
+    top: 100px;   
+}
+.paragraph{
+    position: relative;
+    right: 15%;
+    top: 95px;
+
+}
+.table-3{
+    line-height: 50px;
+    text-align: 100% center;
+    position: absolute;
+    left: 40%;
+
+}
+.password{
+    color: black;
+    text-align: center;
+    margin: 200px 0 200px 0;
+}
