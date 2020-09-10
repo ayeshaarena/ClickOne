@@ -4,13 +4,55 @@ body{
     font-family: 'Montserrat Alternates', sans-serif;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    background-color: white;
+    background-color: whitesmoke;
 }
 hr{
     border-bottom: none;
     margin: 100px auto;
-    width: 500px;
+    width: 1000px;
     
+}
+.btn{
+    text-align: right;
+    text-decoration: none;
+}
+.btn1{
+    text-decoration: none;
+    background-color:
+    border: 2px solid whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn2{
+
+    text-align: right;
+    background-color:
+    border: 2px solid  whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn3{
+    text-decoration: none;
+    background-color:
+    border: 2px solid  whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn4{
+    text-decoration: none;
+    background-color:
+    border: 2px solid whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 .cart{
     position: relative;
@@ -27,7 +69,6 @@ hr{
     padding-bottom: -0px;
 }
 .mydiv2{
-    background-color: white;
     margin: 0;
 }
 .logo{

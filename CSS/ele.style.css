@@ -8,8 +8,8 @@ body{
 }
 hr{
     border-bottom: none;
-    margin: 100px auto;
-    width: 500px;
+    margin: 50px auto;
+    width: 1000px;
     
 }
 .button {
@@ -43,7 +43,7 @@ a:hover{
     top: 2px;
 }
 .mydiv1{
-    background-color: white; 
+    background-color: 
     margin: 0; 
     padding-bottom: -0px;
 }
