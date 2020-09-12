@@ -1,0 +1,207 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    text text-decoration: none;
+    background-color: whitesmoke;
+}
+hr{
+    border-bottom: none;
+    margin: 50px auto;
+    width: 1000px;
+    
+}
+.mydiv1{
+    margin: 0; 
+    padding-bottom: -0px;
+}
+.mydiv2{
+    background-color:
+    margin: 0;
+}
+.logo{
+    padding-left: 15px;
+    padding-top: 15px;
+    float: left;
+    position: relative;
+    bottom: 15px;
+}
+.top-icons{
+    font-size: 25px;
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    margin: 10px 0 10px 0;
+    text-decoration: none;
+}
+.top-icons2{
+    font-size: 25px;
+    position: absolute;
+    bottom: 200px;
+    right: 100px;
+    margin: 10px 0 10px 0;
+    text-decoration: none;
+}
+.btn{
+    text-align: right;
+    text-decoration: none;
+}
+.btn1{
+    text-decoration: none;
+    background-color:
+    border: 2px solid whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn2{
+
+    text-align: right;
+    background-color:
+    border: 2px solid  whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn3{
+    text-decoration: none;
+    background-color:
+    border: 2px solid  whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn4{
+    text-decoration: none;
+    background-color:
+    border: 2px solid whitesmoke;
+    font-size: 15px;
+    padding: 8px 5px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Poiret One', cursive;
+    padding-top: 10px;
+    margin: 0%;
+    text-align: left;
+    font-size:  35px;
+    color: tomato;
+}
+h2{
+    color:  lightseagreen;;
+}
+h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: left;
+    position: relative;
+    left: 100px;
+
+}
+h5{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: left;
+    margin: 0%;
+    position: relative;
+    left: 0px;  
+    bottom: 1px;
+}
+.fashion.div{
+    position: absolute;
+    
+}
+.fa{
+    margin: 0%;
+    position: absolute;
+    top: 875px;
+
+    left: 19%;
+    text-decoration: none;
+    color: white;
+    font-size: 50px;  
+}
+.fashionsec{
+    margin: 0%;
+    position: absolute;
+    top: 500px;
+
+    left: 45%;
+    text-decoration: none;
+    color: lightskyblue;
+    font-size: 50px;  
+}
+.spo{
+    margin: 0%;
+    position: relative;
+    top: 1905px;
+    left: 20%;
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+
+}
+
+.ele{
+    margin: 0%;
+    position: absolute;
+    top:  1590px;
+    right: 30%;
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+}
+.kids{
+    margin: 0%;
+    position: absolute;
+    top: 2160px;
+    left: 35%;
+    text-decoration: none;
+    color: tomato;
+    font-size: 50px;  
+}
+
+.women{
+    margin: 0%;
+    position: absolute;
+    top:  880px;
+    left: 70%;
+    text-decoration: none;
+    color: lightseagreen;
+    font-size: 50px;
+}
+.men{
+    margin: 0%;
+    position: absolute;
+    top:  885px;
+    left: 47%;
+    text-decoration: none;
+    color: orange;
+    font-size: 50px;
+}
+
+.latest-trending{
+    border: tomato 2px;
+
+}
+
+.bottom-container{  
+    line-height: 0px;
+    padding: 15px;
+    background-color: 
+}
+.copyrights{
+    line-height: 50px;
+    color: white;
+    font-size: 0.75rem;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
